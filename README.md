@@ -18,6 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C++)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=r&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
