@@ -18,10 +18,10 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![Dart](https://img.shields.io/badge/-R-000?&logo=r&logoColor=1572B6)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=r&logoColor=1572B6)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![Flutter](https://img.shields.io/badge/-Jupyter_Notebook-000?&logo=jupyter)
+![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![FIGMA](https://img.shields.io/badge/-Figma-000?&logo=figma)
 
 [![@ananyakansal's Holopin board](https://holopin.io/api/user/board?user=ananyakansal)](https://holopin.io/@ananyakansal)
